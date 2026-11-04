@@ -1,0 +1,10 @@
+# Operating system clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python bytecode from running the build script
+__pycache__/
+
+# Local-only reference material, never committed
+external-files/
