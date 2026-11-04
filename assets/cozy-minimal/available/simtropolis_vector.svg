@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="none" viewBox="0 0 56 56">
+	<rect width="56" height="56" fill="url(#a)" rx="8.4"/>
+	<rect width="53.9" height="53.9" x="1.05" y="1.05" stroke="#fff" stroke-opacity=".15" stroke-width="2.1" rx="7.35"/>
+	<g filter="url(#b)">
+		<g transform="matrix(1.428571 0 0 1.428571 -0.571429 -0.571429)">
+			<g transform="matrix(.112 0 0 .112 -2.4 -2.064)">
+				<path fill="#fff" d="M188.3 296V135L195.5 125L200 89L204.5 125L211.7 135V296Z"/>
+				<path fill="#fff" d="M130 296V198L150 184V167L169.3 149.5L188.3 160V296Z"/>
+				<path fill="#fff" d="M211.7 296V187L230.7 178.5L251.7 191.7V211.7L270.7 222V296Z"/>
+				<path fill="url(#g)" d="M170.7 156L188.3 166V296H170.7Z"/>
+				<path fill="url(#g)" d="M212 193L230 185V296H212Z"/>
+				<rect width="2.6" height="128" x="178.2" y="168" fill="#fff"/>
+				<rect width="2.6" height="100" x="218.7" y="196" fill="#fff"/>
+				<path fill="#fff" d="M75 305Q200 280 325 305Q200 295 75 305Z"/>
+			</g>
+		</g>
+	</g>
+	<defs>
+		<linearGradient id="a" x1="28" x2="28" y1="0" y2="56" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#004468"/>
+			<stop offset="1" stop-color="#002c43"/>
+		</linearGradient>
+		<linearGradient id="g" x1="0" x2="0" y1="180" y2="290" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ef5788"/>
+			<stop offset="1" stop-color="#38789e"/>
+		</linearGradient>
+		<filter id="b" width="51.429" height="51.429" x="2.286" y="2.286" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+			<feOffset/>
+			<feGaussianBlur stdDeviation="2.857"/>
+			<feComposite in2="hardAlpha" operator="out"/>
+			<feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend in2="BackgroundImageFix" result="shadow"/>
+			<feBlend in="SourceGraphic" in2="shadow" result="shape"/>
+		</filter>
+	</defs>
+</svg>

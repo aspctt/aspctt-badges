@@ -3,6 +3,7 @@
 <p align="center">
 	<img alt="SpaceDock" height="56" src="assets/cozy-minimal/available/spacedock_vector.svg">
 	<img alt="KSP Forum" height="56" src="assets/cozy-minimal/available/ksp-forum_vector.svg">
+	<img alt="Simtropolis" height="56" src="assets/cozy-minimal/available/simtropolis_vector.svg">
 </p>
 
 Badges for the places my mods live that [Devin's Badges](https://github.com/intergrav/devins-badges)
@@ -28,6 +29,7 @@ for compact.
 |---|---|---|---|
 | SpaceDock | <img alt="SpaceDock" src="assets/cozy-minimal/available/spacedock_vector.svg"> | <img alt="SpaceDock" src="assets/compact-minimal/available/spacedock_vector.svg"> | `available/spacedock` |
 | KSP Forum | <img alt="KSP Forum" src="assets/cozy-minimal/available/ksp-forum_vector.svg"> | <img alt="KSP Forum" src="assets/compact-minimal/available/ksp-forum_vector.svg"> | `available/ksp-forum` |
+| Simtropolis | <img alt="Simtropolis" src="assets/cozy-minimal/available/simtropolis_vector.svg"> | <img alt="Simtropolis" src="assets/compact-minimal/available/simtropolis_vector.svg"> | `available/simtropolis` |
 
 ## Using them
 
